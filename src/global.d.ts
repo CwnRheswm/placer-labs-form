@@ -1,0 +1,1 @@
+type BooleanObj = {[key: string]: boolean};
